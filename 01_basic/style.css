@@ -1,0 +1,15 @@
+.box-1{
+    width: 200px;
+    height:200px;
+    background: red;
+}
+.box-2{
+    width: 200px;
+    height:200px;
+    background: rgb(0, 38, 255);
+}
+.box-3{
+    width: 200px;
+    height:200px;
+    background: rgb(255, 200, 0);
+}
